@@ -1,0 +1,6 @@
+name: "Layered Stack Example"
+
+ssh_keys:
+  - name: "ls-rails-monolith"
+    provider: "aws"
+    public_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINNRhyxsm5jX+cmt0r0UV63EAp1eWPT/YDCCpgev13t2 support@layeredstack.org"
